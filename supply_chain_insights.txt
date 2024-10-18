@@ -1,0 +1,42 @@
+Insights for Supply Chain Analysis Project
+
+1. Sales Analysis:
+   - Total sales by customer segment to understand which segment is most profitable.
+   - Sales trends over time by analyzing order date and aggregating sales data.
+   - Average profit per order and sales per customer by customer city or customer country.
+
+2. Customer Insights:
+   - Identify the most frequent customer city or customer state to target marketing efforts.
+   - Analyze the purchase behavior of different customer segment types.
+
+3. Product Performance:
+   - Determine which category name or department name generates the highest profit per order.
+   - Identify top-selling products using order item quantity and order item total amount.
+
+4. Order Status Analysis:
+   - Analyze the order status distribution to identify areas for improvement in fulfillment.
+   - Calculate the percentage of orders that were delayed or arrived early based on the label column.
+
+5. Shipping Efficiency:
+   - Assess delivery performance by analyzing shipping mode against label outcomes.
+   - Calculate average delivery times by comparing shipping date with order date.
+
+6. Discount Impact:
+   - Analyze the impact of order item discount and order item discount rate on order item profit ratio.
+   - Determine if higher discounts lead to increased order item quantity.
+
+7. Geographical Analysis:
+   - Customer Distribution Analysis:
+	What is the geographical distribution of customers across different regions, and how does it correlate with the sales volume?
+   - Order Delivery Performance by Location:
+	How do delivery times vary by geographical location? Analyze whether certain regions experience consistently longer or shorter delivery times and explore possible reasons
+
+8. Financial Metrics:
+   - Calculate overall profitability by summing order profit per order.
+   - Analyze sales versus order item total amount to understand profit margins.
+
+9. Customer Retention:
+   - Use customer ID to analyze repeat purchases and customer loyalty metrics.
+
+10. Operational Efficiency:
+   - Investigate the correlation between order item quantity and order profit per order to assess how quantity impacts profitability.
